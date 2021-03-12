@@ -91,3 +91,17 @@ https://tvliveapp-proxy.herokuapp.com/?ch=aptv88&fnc=/
 https://tvliveapp-proxy.herokuapp.com/?ch=aptv89&fnc=/
 #EXTINF:0,dw
 https://tvliveapp-proxy.herokuapp.com/?ch=aptv93&fnc=/
+#EXTINF:0,hboes
+https://tvliveapp-proxy.herokuapp.com/?ch=aptv180&fnc=iptvhd
+#EXTINF:0,hbo2
+https://tvliveapp-proxy.herokuapp.com/?ch=aptv182&fnc=iptvhd
+#EXTINF:0,hboplus
+https://tvliveapp-proxy.herokuapp.com/?ch=aptv184&fnc=iptvhd
+#EXTINF:0,hbofamily
+https://tvliveapp-proxy.herokuapp.com/?ch=aptv186&fnc=iptvhd
+#EXTINF:0,hbomundi
+https://tvliveapp-proxy.herokuapp.com/?ch=aptv188&fnc=iptvhd
+#EXTINF:0,hbosignature
+https://tvliveapp-proxy.herokuapp.com/?ch=aptv190&fnc=iptvhd
+#EXTINF:0,hboxtreme
+https://tvliveapp-proxy.herokuapp.com/?ch=aptv192&fnc=/
